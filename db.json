@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "firstName": "farhan",
+      "lastName": "alam",
+      "email": "farhan@gmail.com",
+      "dob": "2023-04-01T18:00:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "fahim",
+      "lastName": "alam",
+      "email": "fahim@gmail.com",
+      "dob": "2023-04-05T18:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
